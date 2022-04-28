@@ -1,2 +1,3 @@
 rootProject.name = 'kafkaStreams'
+include 'wordCount'
 
