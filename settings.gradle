@@ -1,3 +1,4 @@
 rootProject.name = 'kafkaStreams'
 include 'wordCount'
+include 'favoriteColor'
 
